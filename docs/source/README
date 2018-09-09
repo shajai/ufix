@@ -1,0 +1,5 @@
+Run `sphinx-apidoc -o . ../../hr_module' in this directory.
+
+This will generate `modules.rst' and `hr_module.rst'.
+
+Then include `modules.rst' in your `index.rst' file.
