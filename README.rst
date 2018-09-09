@@ -1,5 +1,5 @@
 =========================
- Python Project Template
+ Ufix Project
 =========================
 
 .. image:: https://travis-ci.org/seanfisk/python-project-template.png
